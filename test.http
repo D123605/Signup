@@ -1,0 +1,10 @@
+POST http://localhost:4000/app/signup
+Content-Type: application/json
+
+{
+    "fullName":"abcdfd",
+    "email":"a1@gsasdamail.com",
+    "mobile":"5265sa335363",
+    "password":"125s3hdudh",
+    "confirmPassword":"125s3hdudh"
+}
